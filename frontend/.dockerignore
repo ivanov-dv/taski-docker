@@ -1,4 +1,9 @@
 # frontend/.dockerignore
+.github/
+venv/
+.venv/
+.git/
+.idea/
 node_modules
 build
 .env
